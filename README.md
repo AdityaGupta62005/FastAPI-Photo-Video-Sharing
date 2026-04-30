@@ -43,6 +43,17 @@ Users can:
 * Relationships between users and posts
 
 ---
+# Screenshots
+
+<img width="1905" height="942" alt="Screenshot 2026-04-30 232426" src="https://github.com/user-attachments/assets/cdf0b9b2-bf9e-483e-ab11-a9e96a3b28e0" />
+<img width="1914" height="960" alt="Screenshot 2026-04-30 232245" src="https://github.com/user-attachments/assets/951c0746-18e5-4e59-90e7-fa8eb7620288" />
+<img width="1913" height="965" alt="Screenshot 2026-04-30 232146" src="https://github.com/user-attachments/assets/66fbf7f9-407e-4b46-b77d-8f58c4c467d1" />
+<img width="1907" height="958" alt="Screenshot 2026-04-30 232110" src="https://github.com/user-attachments/assets/5afe9dd7-0b83-46a4-9460-ca8757171e16" />
+<img width="1907" height="962" alt="Screenshot 2026-04-30 232736" src="https://github.com/user-attachments/assets/a00aadbf-0ff1-4cf2-ad2d-fd82a1eef3d0" />
+<img width="1902" height="963" alt="Screenshot 2026-04-30 232721" src="https://github.com/user-attachments/assets/5fe612a4-9327-4cf8-ba38-fcf73ea9efd9" />
+<img width="1906" height="964" alt="Screenshot 2026-04-30 232704" src="https://github.com/user-attachments/assets/472f00b8-486a-4978-b45b-7e268dd7d85a" />
+<img width="1907" height="968" alt="Screenshot 2026-04-30 232526" src="https://github.com/user-attachments/assets/c33ec8a1-ce53-4d26-901d-0c7500e4ffad" />
+
 
 # Tech Stack
 
